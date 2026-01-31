@@ -1,105 +1,105 @@
-📌 Project Description
+**📌 Project Description**
 
 Job seekers in India often struggle to choose the right company because company-related information such as ratings, job openings, reviews, and work culture is available but scattered across platforms.
 
 This project focuses on collecting, cleaning, and analyzing company data from AmbitionBox to bring all important information into a single structured dataset and extract meaningful insights for better career decision-making.
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
-Scrape company data from AmbitionBox website
+* Scrape company data from AmbitionBox website
 
-Convert unstructured web data into structured format
+* Convert unstructured web data into structured format
 
-Clean and preprocess the collected data
+* Clean and preprocess the collected data
 
-Perform Exploratory Data Analysis (EDA)
+* Perform Exploratory Data Analysis (EDA)
 
-Identify patterns related to ratings, reviews, and job openings
+* Identify patterns related to ratings, reviews, and job openings
 
-Support job seekers with data-driven insights
+* Support job seekers with data-driven insights
 
-📂 Dataset Information
+**📂 Dataset Information**
 
 The cleaned dataset contains the following attributes:
 
-Company Name
+* Company Name
 
-Overall Rating
+* Overall Rating
 
-Company Type
+* Company Type
 
-Head Office Location
+* Head Office Location
 
-Operations Spread
+* Operations Spread
 
-Number of Job Openings
+* Number of Job Openings
 
-Highly Rated Percentage
+* Highly Rated Percentage
 
-Critically Rated Percentage
+* Critically Rated Percentage
 
-Total Reviews
+* Total Reviews
 
-The dataset was cleaned to remove missing values, symbols, and inconsistent data formats.
+* The dataset was cleaned to remove missing values, symbols, and inconsistent data formats.
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used**
 
-Python
+* Python
 
-Selenium – for dynamic web scraping
+* Selenium – for dynamic web scraping
 
-Requests
+* Requests
 
-BeautifulSoup
+* BeautifulSoup
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Regular Expressions (Regex)
+* Regular Expressions (Regex)
 
-Jupyter Notebook
+* Jupyter Notebook
 
-⚙️ Project Workflow
+**⚙️ Project Workflow**
 
-Web Scraping
+* Web Scraping
 
-Scraped multiple pages of company data from AmbitionBox
+* Scraped multiple pages of company data from AmbitionBox
 
-Used Selenium for dynamic content loading
+* Used Selenium for dynamic content loading
 
-Used BeautifulSoup for HTML parsing
+* Used BeautifulSoup for HTML parsing
 
-Data Cleaning
+**Data Cleaning**
 
-Removed unwanted characters using Regex
+* Removed unwanted characters using Regex
 
-Handled missing and inconsistent values
+* Handled missing and inconsistent values
 
-Converted text-based columns into numeric format
+* Converted text-based columns into numeric format
 
-Exploratory Data Analysis (EDA)
+**Exploratory Data Analysis (EDA)**
 
-Analyzed company ratings distribution
+* Analyzed company ratings distribution
 
-Compared job openings with company ratings
+* Compared job openings with company ratings
 
-Identified companies with high reviews but low ratings
+* Identified companies with high reviews but low ratings
 
-Insight Generation
+* Insight Generation
 
-Evaluated overall company performance
+* Evaluated overall company performance
 
-Observed trends in employee satisfaction
+* Observed trends in employee satisfaction
 
-Highlighted useful patterns for job seekers
+* Highlighted useful patterns for job seekers
 
-📈 Key Insights
+**📈 Key Insights**
 
-High-rated companies do not always have more job openings
+* High-rated companies do not always have more job openings
 
-Some companies receive many reviews but have lower satisfaction ratings
+* Some companies receive many reviews but have lower satisfaction ratings
 
-Company type and operations spread influence ratings
+* Company type and operations spread influence ratings
 
-Combining multiple metrics gives better insights than a single factor
+* Combining multiple metrics gives better insights than a single factor
